@@ -12,15 +12,15 @@
 
 ## 2.程序截图
 
-<div align=center><img width="600" height="300" src="https://github.com/DQ0408/AnomalyDetection/blob/master/imgs/Fig1.png"/></div>
+<div align=center><img width="600" height="300" src="https://github.com/DQ0408/ArticleChecking/blob/master/imgs/Fig1.jpg"/></div>
 
 #### <div align=center> Fig1.主界面 </div>
 
-<div align=center><img width="600" height="300" src="https://github.com/DQ0408/AnomalyDetection/blob/master/imgs/Fig1.png"/></div>
+<div align=center><img width="600" height="300" src="https://github.com/DQ0408/ArticleChecking/blob/master/imgs/Fig2.jpg"/></div>
 
 #### <div align=center> Fig2.查重结果界面 </div>
 
-<div align=center><img width="600" height="300" src="https://github.com/DQ0408/AnomalyDetection/blob/master/imgs/Fig1.png"/></div>
+<div align=center><img width="600" height="300" src="https://github.com/DQ0408/ArticleChecking/blob/master/imgs/Fig3.jpg"/></div>
 
 #### <div align=center> Fig3.导出的csv截图 </div>
 
